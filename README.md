@@ -7,7 +7,7 @@ Each notebook includes end-to-end data handling — from cleaning to visualizati
 
 ---
 
-## 📁 Project 1: Zomato Dataset Analysis (Food Tech)
+## Project 1: Zomato Dataset Analysis (Food Tech)
 
 🔍 Goal: Understand restaurant trends, location-based popularity, and user preferences using Zomato restaurant data.
 
@@ -24,7 +24,7 @@ Each notebook includes end-to-end data handling — from cleaning to visualizati
 
 ---
 
-## 📁 Project 2: Global Terrorism Analysis (Security & Policy)
+## Project 2: Global Terrorism Analysis (Security & Policy)
 
 🔍 Goal: Explore the nature, scale, and pattern of terrorist activities worldwide using the Global Terrorism Database.
 
@@ -41,7 +41,7 @@ Each notebook includes end-to-end data handling — from cleaning to visualizati
 
 ---
 
-## 📁 Project 3: Indian Road Accident Data Analysis (Public Safety)
+## Project 3: Indian Road Accident Data Analysis (Public Safety)
 
 🔍 Goal: Analyze accident data across Indian states to uncover temporal and causal patterns of road mishaps.
 
@@ -58,7 +58,7 @@ Each notebook includes end-to-end data handling — from cleaning to visualizati
 
 ---
 
-## 📁 Project 4: Mental Health in Tech Industry (Workplace Wellness)
+## Project 4: Mental Health in Tech Industry (Workplace Wellness)
 
 🔍 Goal: Study the impact of workplace factors on employee mental health using survey data from tech professionals.
 
@@ -75,7 +75,7 @@ Each notebook includes end-to-end data handling — from cleaning to visualizati
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 * Python 3
 * Jupyter Notebook
@@ -85,7 +85,7 @@ Each notebook includes end-to-end data handling — from cleaning to visualizati
 
 ---
 
-## 📚 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open any .ipynb file in Jupyter Lab/Notebook
@@ -93,7 +93,7 @@ Each notebook includes end-to-end data handling — from cleaning to visualizati
 
 ---
 
-## 📦 Datasets
+## Datasets
 
 Each dataset is available locally in this repo or can be sourced from Kaggle:
 
@@ -104,7 +104,7 @@ Each dataset is available locally in this repo or can be sourced from Kaggle:
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 Feel free to fork, improve or adapt any of these analyses. PRs are welcome!
 
